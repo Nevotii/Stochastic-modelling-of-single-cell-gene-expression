@@ -6,8 +6,8 @@ The code includes implementations for:
 3. Bayesian inference of parameters with a Metropolis-Hastings algorithm (Markov Chain Monte Carlo MCMC method)
 
 
-# Dresden Summer School in Systems Biology (August 2019)
-## Project 1: Stochastis simulation of gene expression
-Project designed and tutored by [Christoph Zechner](https://scholar.google.com/citations?hl=en&user=Ah1KILgAAAAJ) and  [Stephan Baumgärtner](https://scholar.google.de/citations?hl=de&user=ve-32F4AAAAJ) 
+### Dresden Summer School in Systems Biology (August 2019)
+#### Project 1: Stochastis simulation of gene expression
+Project designed and tutored by [Christoph Zechner](https://scholar.google.com/citations?hl=en&user=Ah1KILgAAAAJ) and  [Stephan Baumgärtner](https://scholar.google.de/citations?hl=de&user=ve-32F4AAAAJ)  
 [More info](https://www.csbdresden.de/join-us/summer-school/)
 
